@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="passport_alphabet_table">
+     <string-array name="account_user_gender_name">
+        <item>Uomo</item>
+        <item>Donna</item>
+     </string-array>
+     <string-array name="education">
+        <item>Scuola media</item>
+        <item>Prep school</item>
+        <item>Scuola superiore</item>
+        <item>Vocational school</item>
+        <item>Università</item>
+        <item>Laurea</item>
+        <item>Dottorato</item>
+     </string-array>
+     <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+     </string-array>
+     <string-array name="passport_alphabet_table">
         <item>\#</item>
         <item>A</item>
         <item>B</item>
@@ -28,63 +49,5 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-    </string-array>
-    <string-array name="account_user_gender_name">
-        <item>Uomo</item>
-        <item>Donna</item>
-    </string-array>
-    <string-array name="education">
-        <item>Scuola media</item>
-        <item>Prep school</item>
-        <item>Scuola superiore</item>
-        <item>Vocational school</item>
-        <item>Università</item>
-        <item>Laurea</item>
-        <item>Dottorato</item>
-    </string-array>
-    <string-array name="income">
-        <item>&lt; 2000</item>
-        <item>2001~4000</item>
-        <item>4001~6000</item>
-        <item>6001~8000</item>
-        <item>8001~12000</item>
-        <item>> 12000</item>
-    </string-array>
-    <string-array name="question_no1">
-        <item>Famiglia</item>
-        <item>Come si chiama tua nonna materna?</item>
-        <item>Come si chiama tuo nonno materno?</item>
-        <item>Come si chiama tua nonna paterna?</item>
-        <item>Come si chiama tuo nonno paterno?</item>
-        <item>Quando è nato tuo padre?</item>
-        <item>Quando è nata tua madre?</item>
-        <item>Quanti anni di differenza ci sono tra i tuoi genitori (anni e mesi)?</item>
-    </string-array>
-    <string-array name="question_no2">
-        <item>Formazione</item>
-        <item>Come si chiamava il preside della tua scuola media?</item>
-        <item>Come si chiamava il preside della tua scuola elementare?</item>
-        <item>"Qual era il numero di matricola dell'università?"</item>
-        <item>"Qual era il nome del tuo compagno di stanza dell'università?"</item>
-        <item>"Qual era il nome del tuo supervisore all'università?"</item>
-    </string-array>
-    <string-array name="question_no3">
-        <item>Informazioni personali</item>
-        <item>Come ti chiamano i tuoi genitori?</item>
-        <item>Quali sono gli ultimi due numeri del tuo passaporto?</item>
-        <item>In quale ospedale sei nato?</item>
-        <item>Come si chiama il tuo migliore amico?</item>
-    </string-array>
-    <string-array name="question_no4">
-        <item>Prime volte</item>
-        <item>Come si chiamava il tuo primo animale domestico?</item>
-        <item>Come si chiamava il tuo primo amore?</item>
-        <item>Come si chiamava il tuo primo datore di lavoro?</item>
-    </string-array>
-    <string-array name="question_no5">
-        <item>Matrimonio</item>
-        <item>Quando ti sei sposato?</item>
-        <item>Come si chiama tuo marito/tua moglie?</item>
-        <item>Quando è nato/a tuo marito/tua moglie?</item>
-    </string-array>
+     </string-array>
 </resources>
