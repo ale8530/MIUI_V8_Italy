@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ordinal_labels">
+        <item>primo</item>
+        <item>secondo</item>
+        <item>terzo</item>
+        <item>quarto</item>
+        <item>ultimo</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Senza risposta</item>
+        <item>Sì</item>
+        <item>Forse</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Solo questo evento</item>
+        <item>Questo ed eventi futuri</item>
+        <item>Tutti gli eventi</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Solo questa istanza</item>
+        <item>Tutti gli eventi della serie</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Nero trasparente</item>
+        <item>Sfondo bianco</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>"Al momento dell'evento"</item>
+        <item>5 minuti prima</item>
+        <item>10 minuti prima</item>
+        <item>15 minuti prima</item>
+        <item>30 minuti prima</item>
+        <item>1 ora prima</item>
+        <item>1 giorno prima</item>
+        <item>2 giorni prima</item>
+        <item>1 settimana prima</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Definito dalla regione</item>
+        <item>Sabato</item>
+        <item>Domenica</item>
+        <item>Lunedì</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Solo quando silenzioso</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 ore</item>
+        <item>4 ore</item>
+        <item>5 ore</item>
+        <item>6 ore</item>
+        <item>1 giorno</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>giorno</item>
+        <item>settimana</item>
+        <item>mese</item>
+        <item>anno</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Gen</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mag</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
+        <item>Nov</item>
+        <item>Dic</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>primo</item>
+        <item>secondo</item>
+        <item>terzo</item>
+        <item>quarto</item>
+        <item>ultimo</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Lun - Ven</item>
+        <item>Weekend</item>
+        <item>Settimana</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Mai</item>
+        <item>Ora</item>
+        <item>Numero</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Mai</item>
+        <item>Mensile</item>
+        <item>Annuale</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Avanti</item>
+        <item>Indietro</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>DOM</item>
+        <item>LUN</item>
+        <item>MAR</item>
+        <item>MER</item>
+        <item>GIO</item>
+        <item>VEN</item>
+        <item>SAB</item>
+    </string-array>
+</resources>
