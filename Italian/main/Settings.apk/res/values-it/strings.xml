@@ -938,6 +938,7 @@ La trasmissione utilizza segnali Bluetooth a bassa potenza."</string>
      <string name="clear_failed_dlg_title">Elimina dati</string>
      <string name="clear_uri_btn_text">Clear access</string>
      <string name="clear_user_data_text">Elimina dati</string>
+     <string name="close_app">Close current app</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_miui_optimization_warning_message">Il dispositivo verrà riavviato per applicare questa modifica.</string>
      <string name="close_sdcard_optimization_title">close emulated sdcard optimization</string>
@@ -1449,6 +1450,7 @@ avviso"</string>
      <string name="domain_urls_title">Link alle app</string>
      <string name="done">Fatto</string>
      <string name="done_button">Fine</string>
+     <string name="double_click_power_key">Double Click Power Key</string>
      <string name="download_current_rom">"Scarica l'ultima versione di MIUI"</string>
      <string name="downloading_description">Download in corso\u2026</string>
      <string name="doze_summary">Accende lo schermo quando sollevi il dispositivo o arrivano notifiche</string>
@@ -1751,6 +1753,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="global_change_warning">Questa impostazione influisce su tutti gli utenti di questo dispositivo.</string>
      <string name="global_locale_change_title">Cambia lingua</string>
      <string name="go_back_button_label">Go back</string>
+     <string name="go_to_sleep">Go to sleep</string>
      <string name="google_backup_enable">Attiva backup</string>
      <string name="google_backup_section_title">Backup e ripristino di Google</string>
      <string name="google_title">Google</string>
@@ -1910,9 +1913,20 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keep_screen_on">Rimani attivo</string>
      <string name="keep_screen_on_summary">Lo schermo non va mai in sospensione se il dispositivo è in carica</string>
      <string name="kernel_version">Versione kernel</string>
+     <string name="key_combination_power_back">Power key + Back key</string>
+     <string name="key_combination_power_home">Power key + Home key</string>
+     <string name="key_combination_power_menu">Power key + Menu key</string>
+     <string name="key_gesture_function_dialog_message">%1$s has been set to %2$s shortcuts ,whether replaced with %3$s</string>
+     <string name="key_gesture_function_dialog_negative">Cancel</string>
+     <string name="key_gesture_function_dialog_positive">Replace</string>
+     <string name="key_gesture_function_optional">Optional gestures and key</string>
+     <string name="key_gesture_function_preview">Gestures and key preview</string>
+     <string name="key_gesture_function_shortcut">Function shortcut</string>
+     <string name="key_none">none</string>
      <string name="key_position_cat">Posizione tasti</string>
      <string name="key_settings">Tasti</string>
      <string name="key_settings_title">Tasti</string>
+     <string name="key_system_control">System control</string>
      <string name="keyboard_and_input_methods_category">Tastiera e metodi di inserimento</string>
      <string name="keyboard_assistance_category">Keyboard assistance</string>
      <string name="keyboard_layout_default_label">Predefinita</string>
@@ -1992,8 +2006,11 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="later">LATER</string>
      <string name="lattice_smartcover_title">Cover frontale in lattice</string>
      <string name="launch_by_default">Apri predefinita</string>
+     <string name="launch_camera">Launch camera</string>
      <string name="launch_defaults_none">Nessun valore predefinito impostato</string>
      <string name="launch_defaults_some">Alcuni valori predefiniti impostati</string>
+     <string name="launch_google_search">Launch Google Search</string>
+     <string name="launch_voice_assistant">Launch Voice assistant</string>
      <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
      <string name="launcher_title">Launcher</string>
      <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
@@ -2256,6 +2273,11 @@ You can set a new screen lock for both your device and your work profile, but an
      <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
      <string name="login_account_dialog_title">Sign in with Mi Account</string>
      <string name="login_action">Sign in</string>
+     <string name="long_press_back_key">Long Press Back Key</string>
+     <string name="long_press_buttom_key">Long Press Buttom Key When Lock</string>
+     <string name="long_press_home_key">Long Press Home Key</string>
+     <string name="long_press_menu_key">Long Press Menu Key</string>
+     <string name="long_press_menu_key_when_lock">Long Press Menu Key When Lock</string>
      <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
      <string name="lte_4g_settings_4gdisable_summary">4G Disabled</string>
      <string name="lte_4g_settings_4genable_summary">4G Enabled</string>
@@ -3340,6 +3362,7 @@ Come usare Mantieni su schermo:
      <string name="screen_resolution_title">Risoluzione dello schermo</string>
      <string name="screen_resolution_ultrahigh_format">Ultrahigh (%1$s)</string>
      <string name="screen_saturation">Saturazione colori</string>
+     <string name="screen_shot">Take Screenshot</string>
      <string name="screen_timeout">Sospensione</string>
      <string name="screen_timeout_summary">Dopo %1$s di inattività</string>
      <string name="screen_timeout_title">Disattivazione schermo</string>
@@ -3755,6 +3778,7 @@ Come usare Mantieni su schermo:
      <string name="show_ime_summary">Keep it on screen while physical keyboard is active</string>
      <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
      <string name="show_mem_info_title">Mostra info memoria</string>
+     <string name="show_menu">Show menu</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario sulla Schermata di blocco</string>
      <string name="show_password">Password visibili</string>
@@ -4232,6 +4256,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tethering_settings_not_available">Le impostazioni Tethering non sono disponibili per questo utente</string>
      <string name="tethering_settings_summary">"Share your device's mobile data connection via USB or a Mobile HotSpot"</string>
      <string name="theme_settings_title">Temi</string>
+     <string name="three_gesture_down">Three Gesture Down</string>
      <string name="time_picker_title">Ora</string>
      <string name="time_zone_auto_stub">Seleziona fuso orario</string>
      <string name="timed_titlei">schedule rule %d</string>
@@ -4330,6 +4355,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="turn_on_keyguard_password_alert_forget_content">"Remember your Lock screen password. If you forget it, you'll have to erase all data on your device, including photos and contacts, and then set a new one."</string>
      <string name="turn_on_keyguard_password_alert_forget_title">"If you forget it, you won't be able to restore it."</string>
      <string name="turn_on_security_lock">Aggiungi password di sicurezza</string>
+     <string name="turn_on_torch">Turn on torch</string>
      <string name="turn_on_wifi_dialog_text">WLAN is turned off when Mobile HotSpot is active. To turn on WLAN, please turn off Mobile HotSpot.</string>
      <string name="turn_on_wifi_dialog_title">Turn on wifi</string>
      <string name="turn_update_keyguard_password_wait_dialog">Modifying password</string>

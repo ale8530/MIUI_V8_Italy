@@ -480,6 +480,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
      <string name="screenshot_failed_text">"Impossibile salvare lo screenshot. L'archivio esterno potrebbe essere in uso."</string>
+     <string name="screenshot_insert_failed">Fail to load the screenshot, please retake a new one or view the picture in the album</string>
      <string name="screenshot_long_screenshot">Screenshot lungo</string>
      <string name="screenshot_send">Invia</string>
      <string name="select_application">Select application</string>
