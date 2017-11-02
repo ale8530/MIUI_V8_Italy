@@ -1962,6 +1962,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_defaults_none">Nessun valore predefinito impostato</string>
      <string name="launch_defaults_some">Alcuni valori predefiniti impostati</string>
      <string name="launch_google_search">Apri Google Search</string>
+     <string name="launch_recents">Launch Recents</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
      <string name="launcher_auto_fill_empty_title">Riempi automaticamente gli spazi vuoti</string>
      <string name="launcher_title">Launcher</string>

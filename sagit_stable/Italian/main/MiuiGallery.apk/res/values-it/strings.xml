@@ -1030,7 +1030,16 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="photo_editor_long_crop">Taglia</string>
      <string name="photo_editor_mosaic">Mosaico</string>
      <string name="photo_editor_navigator_cancel">Annulla</string>
+     <string name="photo_editor_navigator_download_network_metered_msg">Downloading %s requires about 4MB of mobile data. Download now?</string>
+     <string name="photo_editor_navigator_download_network_metered_title">Data usage warning</string>
      <string name="photo_editor_navigator_export">Fine</string>
+     <string name="photo_editor_navigator_module_download_failed">"Couldn't download %s"</string>
+     <string name="photo_editor_navigator_module_download_now">Download</string>
+     <string name="photo_editor_navigator_module_download_success">Downloaded successfully</string>
+     <string name="photo_editor_navigator_module_download_wait_wlan">Wait for WLAN</string>
+     <string name="photo_editor_navigator_module_downloading">Downloading %s…</string>
+     <string name="photo_editor_navigator_need_download">Connect to the internet to download %s.</string>
+     <string name="photo_editor_remover">Erase</string>
      <string name="photo_editor_rotate">Ruota</string>
      <string name="photo_editor_saving">Salvataggio</string>
      <string name="photo_editor_sticker">Adesivo</string>
@@ -1097,6 +1106,10 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="remove_from_secret_successful">"Rimosso dall'album nascosto"</string>
      <string name="remove_to_album_title">Unisci con</string>
      <string name="remove_to_other_album">Unisci con una persona diversa</string>
+     <string name="remover_edit_type_free">Objects</string>
+     <string name="remover_edit_type_line">Lines</string>
+     <string name="remover_erase_aera_too_big">The erase area is too big</string>
+     <string name="remover_menu_processing">Processing</string>
      <string name="rename_album">Rinomina album</string>
      <string name="rename_album_failed">Impossibile rinominare</string>
      <string name="rename_album_succeeded">Rinominato correttamente</string>
