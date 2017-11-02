@@ -3686,15 +3686,15 @@ Come usare Mantieni su schermo:
      <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
      <string name="setup_add_fingerprint_failed_retry_text">"Couldn't add fingerprint"</string>
      <string name="setup_choose_unlock_fingerprint_msg">"Imposta la schermata di blocco prima di impostare l'impronta digitale."</string>
-     <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Password&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_mixed_password_color_normal">Password</string>
+     <string name="setup_choose_unlock_mixed_password_color_pressed">Password</string>
      <string name="setup_choose_unlock_mixpassword_title">Imposta password</string>
-     <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_password_color_normal">PIN</string>
+     <string name="setup_choose_unlock_password_color_pressed">PIN</string>
      <string name="setup_choose_unlock_password_msg">Inserisci 4 numeri</string>
      <string name="setup_choose_unlock_password_title">Imposta PIN</string>
-     <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-     <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Pattern&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+     <string name="setup_choose_unlock_pattern_color_normal">Sequenza</string>
+     <string name="setup_choose_unlock_pattern_color_pressed">Sequenza</string>
      <string name="setup_choose_unlock_pattern_title">Disegna una sequenza</string>
      <string name="setup_choose_unlock_type_title">Imposta password</string>
      <string name="setup_fingerprint_enroll_enrolling_skip_message">"Hai scelto di usare la tua impronta digitale tra i metodi di sblocco del telefono. Se salti adesso, dovrai impostarlo successivamente. L'impostazione richiede circa un minuto."</string>
